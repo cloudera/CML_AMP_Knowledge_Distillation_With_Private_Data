@@ -1,0 +1,7 @@
+## list pip requirements here
+transformers==4.48.1
+vllm==0.6.3
+pynng==0.8.1
+peft==0.14.0
+trl==0.14.0
+torch==2.4.0
