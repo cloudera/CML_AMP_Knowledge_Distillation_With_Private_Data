@@ -21,7 +21,7 @@ entries:
       - Private data
       - Knowledge Distillation
       - Customer support
-    git_url: ‘https://github.com/cloudera/CML_AMP_Knowledge_Distillation_With_Private_Data’
+    git_url: "https://github.com/cloudera/CML_AMP_Knowledge_Distillation_With_Private_Data"
     git_ref: "main"
     is_prototype: true
     is_new: true
