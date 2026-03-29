@@ -10,7 +10,7 @@ date: "2025-03-18"
 
 runtimes:
   - editor: JupyterLab 
-    kernel: Python 3.9 
+    kernel: Python 3.12 
     edition: Standard 
 
 ## Below are some sample tasks based on some of the most popular aspects of AMP creation.
